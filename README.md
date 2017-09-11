@@ -1,5 +1,5 @@
 # 在中国大陆怎样访问网站 ss-link.com ? 
-网站 ss-link.com 被墙了，在大陆有两种方法可以访问 ss-link.com
+网站https://ss-link.com 被墙了，在大陆有两种方法可以访问https://ss-link.com 
 
 第一种方法就是翻墙，可以VPN或者SS等等，不再赘述。
 
