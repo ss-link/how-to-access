@@ -1,2 +1,2 @@
 # how-to-access
-How to access the website ss-link.com ? 
+怎样访问网站 ss-link.com ? 
